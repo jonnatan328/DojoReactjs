@@ -1,11 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import MotelActions from './actions/MotelActions';
-import MotelGrid from './components/Motelgrid.jsx';
+import App from './components/App.jsx';
 
-// Cada 5 segundos: recargar!
-setInterval(function() {
-    MotelActions.fetchList(); 
-}, 5000);
-
-ReactDOM.render(<MotelGrid />, document.getElementById('app'));
+ReactDOM.render(<App />, document.getElementById('app'));
