@@ -45,5 +45,5 @@ Más info [en este link](http://spoike.ghost.io/deconstructing-reactjss-flux/)
      └──────────────────────────────────────┘
 ```
 
-Referencias: [flux](https://github.com/spoike/refluxjs), 
-			 [Flux](https://facebook.github.io/flux/).
+Referencias: Ejemplo de la arquitectura Flux, tutorial platzi por Sacha Lifszyc [flux](https://github.com/spoike/refluxjs), 
+			 Documentacion oficial de flux [Flux](https://facebook.github.io/flux/).
