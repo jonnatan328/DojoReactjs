@@ -44,3 +44,6 @@ Más info [en este link](http://spoike.ghost.io/deconstructing-reactjss-flux/)
      ^                                      │
      └──────────────────────────────────────┘
 ```
+
+Referencias: [flux](https://github.com/spoike/refluxjs), 
+			 [Flux](https://facebook.github.io/flux/).
