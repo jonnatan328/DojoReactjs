@@ -11,10 +11,11 @@ var MoteleGrid = React.createClass({
           {
             this.state.motelstore.map(function (image) {
               return <div key={image.id} className="image">
-                <a href={ image.email }>
+                <h4>{image.name}</h4>  
+                <a href={ image.URL_Video }>
                     <img src={ image.logo }></img>
                 </a>   
-                <p>{image.name}</p>         
+                <p>{image.description}</p>       
               </div>
           })
         }
